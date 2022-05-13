@@ -16,3 +16,4 @@
 
 * [Aula 6 - Generalizando a solução da nossa View](https://github.com/pvreboucas/javascript-padroes/tree/aula-06)
 
+[PRÓXIMO CURSO >>](https://github.com/pvreboucas/javascript-mvc-proxy-factory)
